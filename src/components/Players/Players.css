@@ -1,0 +1,22 @@
+.players{
+    width: 60%;
+    display: flex;
+    float: right;
+    margin: 5px;
+    padding: 20px;
+}
+.players img{
+    height: 200px;
+    width: 300px;
+}
+.players-info{
+    margin-left: 20px;
+}
+/* #btn{
+    padding: 10px;
+    color: white;
+    background-color: green;
+    cursor: pointer;
+    border: 1px solid green;
+    border-radius: 5px;
+} */

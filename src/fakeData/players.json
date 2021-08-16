@@ -1,91 +1,91 @@
 [{
     "id": 1,
     "name": "Griezmann",
-    "salary": "$11031.45",
-    "image": "https://ibb.co/pzmQZBS",
+    "salary": 11031.45,
+    "image": "https://icdn.football-espana.net/wp-content/uploads/2021/07/1004299248.jpg",
     "position": "forward"
   }, {
     "id": 2,
     "name": "Lionel messi",
-    "salary": "$15031.64",
-    "image": "https://ibb.co/FX9bk7s",
+    "salary": 15031.64,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzrZEzw5k07Ci9gVYUZ8tYlg1OJ8LM0ISQRQ&usqp=CAU",
     "position": "forward"
   }, {
     "id": 3,
     "name": "Cristiano Ronaldo",
-    "salary": "$23015.98",
-    "image": "https://ibb.co/KF3xxd0",
+    "salary": 23015.98,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvkD11cUX1e9ejgZxAnAqoIp02XqsFiw_O9A&usqp=CAU",
     "position": "forward"
   }, {
     "id": 4,
     "name": "Neymar",
-    "salary": "$18572.84",
-    "image": "https://ibb.co/T8mvfBM",
+    "salary": 18572.84,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRFwyGU35AWPLVdiZ5knT2mYoGOOhDOlJ-NA&usqp=CAU",
     "position": "forward"
   }, {
     "id": 5,
     "name": "Kylian Mbappé",
-    "salary": "$18788.83",
-    "image": "https://ibb.co/4dJzqVK",
+    "salary":  18788.83,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyZkUjot4lhKbLV9KuJiI05AcP8AKjDmyQ0g&usqp=CAU",
     "position": "forward"
   }, {
     "id": 6,
     "name": "Marcelo",
-    "salary": "$14754.68",
-    "image": "https://ibb.co/PmvWyvr",
+    "salary":  14754.68,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkSDOkbPNp3w0fSDAZEd9Bh404Zb3o1BnJYQ&usqp=CAU",
     "position": "left back"
   }, {
     "id": 7,
     "name": "Gerard Piqué",
-    "salary": "$36481.07",
-    "image": "https://ibb.co/0jshbS1",
+    "salary":  36481.07,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0SVPsVPl-1eXBnFlej99wqBP3zYDzBotePg&usqp=CAU",
     "position": "centre-back"
   }, {
     "id": 8,
     "name": "Sergio Ramos",
-    "salary": "$24189.31",
-    "image": "https://ibb.co/jZ1KL5r",
+    "salary":  24189.31,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1MgmZLVbrA1FAl-aT6Z7MGqGYnr93hRgATA&usqp=CAU",
     "position": "centre-back"
   }, {
     "id": 9,
     "name": "Eden Hazard",
-    "salary": "$39342.91",
-    "image": "https://ibb.co/2yHVGHm",
+    "salary":  39342.91,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSApqT8t6NXC4ocRr17oqMpOSyb5XfmFskzvg&usqp=CAU",
     "position": "attacking midfielder"
   }, {
     "id": 10,
     "name": "Toni Kroos",
-    "salary": "$17361.01",
-    "image": "https://ibb.co/8P8gSYy",
+    "salary":  17361.01,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIerHINyyBrV2wDjOyc1AmoVjHurxGeHvT2w&usqp=CAU",
     "position": "midfielder"
   }, {
     "id": 11,
     "name": "Nicolás Otamendi",
-    "salary": "$33270.69",
-    "image": "https://ibb.co/YpDTd6N",
+    "salary":  33270.69,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ1e6VmuOblB2oYW8e0HS_BrMmTAsBnDP2dg&usqp=CAU",
     "position": "centre-back"
   }, {
     "id": 12,
     "name": "Keylor Navas",
-    "salary": "$45467.74",
-    "image": "https://ibb.co/T24hG18",
+    "salary":  45467.74,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzX6d9OpdyaiB-ST8kupdwJU4iiNGPccFVJQ&usqp=CAU",
     "position": "goalkeeper"
   }, {
     "id": 13,
     "name": "Neto",
-    "salary": "$19215.22",
-    "image": "https://ibb.co/gdQHTTD",
+    "salary":  19215.22,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGHFpd5LyV0L4I9lWMH-UD2WHvaNdZf6_s_Q&usqp=CAU",
     "position": "goalkeeper"
   }, {
     "id": 14,
     "name": "Busquets",
-    "salary": "$12810.22",
-    "image": "https://ibb.co/cNHRJXp",
+    "salary":  12810.22,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStjvhLnR0c_npFzhUvxrWSfgO9WKRPLCn6pQ&usqp=CAU",
     "position": "defensive midfielder"
   }, {
     "id": 15,
     "name": "Pedri",
-    "salary": "$18748.19",
-    "image": "https://ibb.co/GFSFb7D",
+    "salary":  18748.19,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeyc5TF8aaRb3I06DtZoyxYiqIvxghLN2MEw&usqp=CAU",
     "position": "central midfielder"
   }]
